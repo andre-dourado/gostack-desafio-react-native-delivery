@@ -28,8 +28,8 @@
 </p>
 
 <p align="center">
-  <img alt="App Demo" src="https://res.cloudinary.com/andredourado/image/upload/v1593107897/GoStack/delivery_app_1.gif">
-  <img alt="App Demo" src="https://res.cloudinary.com/andredourado/image/upload/v1593107923/GoStack/delivery_app_2.gif">
+  <img alt="App Demo" src="https://res.cloudinary.com/andredourado/image/upload/v1593107897/GoStack/delivery_app_1.gif" width="400px">
+  <img alt="App Demo" src="https://res.cloudinary.com/andredourado/image/upload/v1593107923/GoStack/delivery_app_2.gif" width="400px">
 </p>
 
 ## :gear: Tecnologias
